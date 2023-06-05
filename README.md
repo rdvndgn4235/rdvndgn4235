@@ -9,9 +9,9 @@
 💬 If you're new to learning to software, I can help you.
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdvndgn4235&langs_count=8&theme=tokyonight)](https://github.com/rdvndgn4235/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdvndgn4235&langs_count=8&theme=highcontrast)](https://github.com/rdvndgn4235/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rdvndgn4235&theme=dracula)](https://github.com/rdvndgn4235/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rdvndgn4235&theme=radical)](https://github.com/rdvndgn4235/github-readme-stats)
 
 <div align="center" dir="auto">
 <a href="mailto:rdvndgn4235@gmail.com">
