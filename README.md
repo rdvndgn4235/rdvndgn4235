@@ -1,9 +1,23 @@
 # Hi there! 👋 
-# My name is Rıdvan, from Turkey
+### My name is Rıdvan, from Turkey
 
 <animated-image data-catalyst="" style="width: 500px;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" data-target="animated-image.originalLink"><img src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" alt="Coder GIF" data-canonical-src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" target="_blank">
+
+              
+# 👨🏻‍💻 About Me
+
+💻 I'm a Backend Senior Spceialist Software Developer
+
+👷‍♂️ I'm currently working for Etiya
+
+⏳ Exploring Spring Cloud & Apache Kafka
+
+🚀 Always ready to collaborate for Dev Experiments
+
+🎯 Life Hack: "Explore 🔥 and Explode 💣 with knowledge
+
 
 # 🛠️ Technologies and Tools I use:
 <p align="left" dir="auto">
@@ -17,19 +31,8 @@
 <a href="https://git-scm.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt="git" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="max-width: 100%;"> </a>
 </p>
 
-# 👨🏻‍💻 About Me:
 
-💻 I'm a Backend Senior Spceialist Software Developer
-
-👷‍♂️ I'm currently working for Etiya
-
-⏳ Exploring Spring Cloud & Apache Kafka
-
-🚀 Always ready to collaborate for Dev Experiments
-
-🎯 Life Hack: "Explore 🔥 and Explode 💣 with knowledge
-
-# ☎️ Let's get connected:
+# ☎️ Let's get connected
 <div align="center" dir="auto">
 <a href="mailto:rdvndgn4235@gmail.com">
   <img src="https://camo.githubusercontent.com/21235764ee32f0e4cd4bc8c92a5b52d8d1cfb96217343d1df29c9e5f70c59c57/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6d6573736167653d476d61696c266c6f676f3d676d61696c266c6162656c3d26636f6c6f723d443134383336266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d267374796c653d666f722d7468652d6261646765" height="35" alt="gmail logo" data-canonical-src="https://img.shields.io/static/v1?message=Gmail&amp;logo=gmail&amp;label=&amp;color=D14836&amp;logoColor=white&amp;labelColor=&amp;style=for-the-badge" style="max-width: 100%;">
@@ -39,7 +42,7 @@
   </a>
 </div>
 
-# 🧑‍💻 Stats:
+# ⚡ GitHub Stats
             
 <div align="left" dir="auto">
     
