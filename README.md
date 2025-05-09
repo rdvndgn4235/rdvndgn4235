@@ -1,90 +1,50 @@
-# Hi there! 👋 
-### My name is Rıdvan, from Turkey
+### Hi there 👋 I'm Rıdvan Doğan
 
-<animated-image data-catalyst="" style="width: 500px;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" data-target="animated-image.originalLink"><img src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" alt="Coder GIF" data-canonical-src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
-      <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
-        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" target="_blank">
+🔧 Senior Backend Developer | Java & Spring Boot Enthusiast  
+📍 Based in Ankara, Turkey  
+📫 rdvndgn4235@gmail.com | [LinkedIn](https://linkedin.com/in/ridvan-dogan) | [GitHub](https://github.com/rdvndgn4235)
 
-              
-# 👨🏻‍💻 About Me
+---
 
-💻 I'm a Backend Senior Spceialist Software Developer
+#### 👨‍💻 About Me
 
-👷‍♂️ I'm currently working for Etiya
+- 💼 Currently working as a **Senior Specialist Software Engineer** at **Etiya**
+- 🧾 Worked on **Fizz** and **ROC** projects in telecom domain
+- 🧠 Previously developed E-Dönüşüm, PEYK and OGO project independently at **Kolaysoft Technology**
+- 🌱 Passionate about Clean Code, Microservices, and Performance optimization
+- 🔍 Actively exploring **Caching**, **Docker & K8S**, and **NoSQL & SQL integration**
 
-⏳ Exploring Spring Cloud & Apache Kafka
+---
 
-🚀 Always ready to collaborate for Dev Experiments
+#### 🛠️ Skills & Technologies
 
-🎯 Life Hack: "Explore 🔥 and Explode 💣 with knowledge
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=java&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-FFC107?style=for-the-badge&logo=java&logoColor=black)
 
+And more: REST API, Hibernate, JPA, IntelliJ IDEA, BitBucket, GitLab, Agile, SOLID, UML, Linux, WildFly, Scrum, SOAP, TypeScript, React, JavaScript
 
-# 🛠️ Technologies and Tools I use
-<p dir="auto"> 
- <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/34593997/87715948-c289af80-c7b6-11ea-9eb7-52863d0ab769.jpeg"><img src="https://user-images.githubusercontent.com/34593997/87715948-c289af80-c7b6-11ea-9eb7-52863d0ab769.jpeg" width="120" alt="accessibility text" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/34593997/87716469-90c51880-c7b7-11ea-9dfd-04f7c86f6629.png"><img src="https://user-images.githubusercontent.com/34593997/87716469-90c51880-c7b7-11ea-9dfd-04f7c86f6629.png" width="200" title="https://spring.io/" style="max-width: 100%;"></a> 
+---
+
+#### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rdvndgn4235&show_icons=true&theme=radical" alt="Rıdvan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdvndgn4235&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-<p dir="auto"> 
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/566080f1f10a299450280c8b9430bf6c24ce39b71098ccee2ffed461c1b151d3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e75782d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6c696e7578"><img src="https://camo.githubusercontent.com/566080f1f10a299450280c8b9430bf6c24ce39b71098ccee2ffed461c1b151d3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e75782d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6c696e7578" alt="Linux" data-canonical-src="https://img.shields.io/badge/Linux-black?style=flat-square&amp;logo=linux" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/edd3031a0956c904634f9a394267a6ba61e9a0bb95c9512a1fbc0725b4014d03/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d676974"><img src="https://camo.githubusercontent.com/edd3031a0956c904634f9a394267a6ba61e9a0bb95c9512a1fbc0725b4014d03/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d676974" alt="Git" data-canonical-src="https://img.shields.io/badge/-Git-black?style=flat-square&amp;logo=git" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/85dc47a56a4e73ae7b6e64b3b4416785497e74219ae179ae8faaaca10d5a78d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3138313731373f7374796c653d666c61742d737175617265266c6f676f3d676974687562"><img src="https://camo.githubusercontent.com/85dc47a56a4e73ae7b6e64b3b4416785497e74219ae179ae8faaaca10d5a78d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3138313731373f7374796c653d666c61742d737175617265266c6f676f3d676974687562" alt="GitHub" data-canonical-src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&amp;logo=github" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/35b0a4cb52ffc87fc7c464f9f2527dec988b663d0ae86bf8d542ae5649bd2c9e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744c61622d4643413132313f7374796c653d666c61742d737175617265266c6f676f3d6769746c6162"><img src="https://camo.githubusercontent.com/35b0a4cb52ffc87fc7c464f9f2527dec988b663d0ae86bf8d542ae5649bd2c9e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744c61622d4643413132313f7374796c653d666c61742d737175617265266c6f676f3d6769746c6162" alt="GitLab" data-canonical-src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&amp;logo=gitlab" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/961b1e5615dfc35b0c81b65b2366143a75e91e54a58e21813e3f94a34ab4be0a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4269744275636b65742d6461726b626c75653f7374796c653d666c61742d737175617265266c6f676f3d6269746275636b6574"><img src="https://camo.githubusercontent.com/961b1e5615dfc35b0c81b65b2366143a75e91e54a58e21813e3f94a34ab4be0a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4269744275636b65742d6461726b626c75653f7374796c653d666c61742d737175617265266c6f676f3d6269746275636b6574" alt="BitBucket" data-canonical-src="https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&amp;logo=bitbucket" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/28d844544b515f2f83a33f7a0dba0b338b152e9fc387007a7667efd8f3aa62eb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5653253230436f64652d3030374143433f7374796c653d666c61742d737175617265266c6f676f3d76697375616c2d73747564696f2d636f6465"><img src="https://camo.githubusercontent.com/28d844544b515f2f83a33f7a0dba0b338b152e9fc387007a7667efd8f3aa62eb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5653253230436f64652d3030374143433f7374796c653d666c61742d737175617265266c6f676f3d76697375616c2d73747564696f2d636f6465" alt="VS Code" data-canonical-src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&amp;logo=visual-studio-code" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a3d16de422e88827b5b79cff564cc631075e72795ff13875e391f23339955159/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d496e74656c6c694a253230494445412d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6a6574627261696e73"><img src="https://camo.githubusercontent.com/a3d16de422e88827b5b79cff564cc631075e72795ff13875e391f23339955159/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d496e74656c6c694a253230494445412d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6a6574627261696e73" alt="IntelliJ" data-canonical-src="https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&amp;logo=jetbrains" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/cf47f22e684a7deb3fe00783eec8e7407be43a25da81cdecc270d6ffc5bd38e6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d706f73746d616e"><img src="https://camo.githubusercontent.com/cf47f22e684a7deb3fe00783eec8e7407be43a25da81cdecc270d6ffc5bd38e6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d706f73746d616e" alt="Postman" data-canonical-src="https://img.shields.io/badge/Postman-black?style=flat-square&amp;logo=postman" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1a085b81c0ac63ef70d22ee1a67560c1bdd5c42038ba20d129d89e7de5603953/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d7953514c2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6d7973716c"><img src="https://camo.githubusercontent.com/1a085b81c0ac63ef70d22ee1a67560c1bdd5c42038ba20d129d89e7de5603953/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d7953514c2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6d7973716c" alt="MySQL" data-canonical-src="https://img.shields.io/badge/-MySQL-black?style=flat-square&amp;logo=mysql" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/77bd5e6a17071b0a508f9815bfff782af2020ea1d4b4b26d253ec61ac6be4b14/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d506f737467726553514c2d3333363739313f7374796c653d666c61742d737175617265266c6f676f3d706f737467726573716c"><img src="https://camo.githubusercontent.com/77bd5e6a17071b0a508f9815bfff782af2020ea1d4b4b26d253ec61ac6be4b14/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d506f737467726553514c2d3333363739313f7374796c653d666c61742d737175617265266c6f676f3d706f737467726573716c" alt="PostgreSQL" data-canonical-src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&amp;logo=postgresql" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e52e7f50754a2e938dc790a37f59c72dd5dee1c349f69be8fc7d363f4f21ff76/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6172696144422d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6d617269616462"><img src="https://camo.githubusercontent.com/e52e7f50754a2e938dc790a37f59c72dd5dee1c349f69be8fc7d363f4f21ff76/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6172696144422d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6d617269616462" alt="MariaDB" data-canonical-src="https://img.shields.io/badge/MariaDB-black?style=flat-square&amp;logo=mariadb" style="max-width: 100%;"></a>   
-</p>
 
+---
 
+#### 📌 Featured Projects
 
-# ☎️ Let's get connected
-<div align="center" dir="auto">
-<a href="mailto:rdvndgn4235@gmail.com">
-  <img src="https://camo.githubusercontent.com/21235764ee32f0e4cd4bc8c92a5b52d8d1cfb96217343d1df29c9e5f70c59c57/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6d6573736167653d476d61696c266c6f676f3d676d61696c266c6162656c3d26636f6c6f723d443134383336266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d267374796c653d666f722d7468652d6261646765" height="35" alt="gmail logo" data-canonical-src="https://img.shields.io/static/v1?message=Gmail&amp;logo=gmail&amp;label=&amp;color=D14836&amp;logoColor=white&amp;labelColor=&amp;style=for-the-badge" style="max-width: 100%;">
-  </a>
-<a href="https://www.linkedin.com/in/ridvan-dogan/" rel="nofollow">
-  <img src="https://camo.githubusercontent.com/4b17bf96ec09910d620801bf4537933731403ed2e8dca4bbf973ace4ae65ae4f/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6d6573736167653d4c696e6b6564496e266c6f676f3d6c696e6b6564696e266c6162656c3d26636f6c6f723d303037374235266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d267374796c653d666f722d7468652d6261646765" height="35" alt="linkedin logo" data-canonical-src="https://img.shields.io/static/v1?message=LinkedIn&amp;logo=linkedin&amp;label=&amp;color=0077B5&amp;logoColor=white&amp;labelColor=&amp;style=for-the-badge" style="max-width: 100%;">
-  </a>
-</div>
+- 🔗 [Graphql Sprint Boot](https://github.com/rdvndgn4235/graphql)  
+- 🔗 [RabbitMQ Spring Boot](https://github.com/rdvndgn4235/rabbitmq)  
+- 🔗 [Microservices Spring Boot](https://github.com/rdvndgn4235/microservices)
 
-# ⚡ GitHub Stats
-            
-<div align="left" dir="auto">
-    
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdvndgn4235&langs_count=8)](https://github.com/rdvndgn4235/github-readme-stats)
+---
 
-[![Rıdvan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rdvndgn4235)](https://github.com/rdvndgn4235/github-readme-stats) 
-</div>
-
-
-<!--
-**rdvndgn4235/rdvndgn4235** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=rdvndgn4235&repo=microservices" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=rdvndgn4235&repo=user_login" />
-</a>
-Here are some ideas to get you started:
-
-<p align="left" dir="auto">
- <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/34593997/87715948-c289af80-c7b6-11ea-9eb7-52863d0ab769.jpeg"><img src="https://user-images.githubusercontent.com/34593997/87715948-c289af80-c7b6-11ea-9eb7-52863d0ab769.jpeg" width="120" alt="accessibility text" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/34593997/87716469-90c51880-c7b7-11ea-9dfd-04f7c86f6629.png"><img src="https://user-images.githubusercontent.com/34593997/87716469-90c51880-c7b7-11ea-9dfd-04f7c86f6629.png" width="200" title="https://spring.io/" style="max-width: 100%;"></a> 
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/34593997/87719973-e3ed9a00-c7bc-11ea-8ad1-66de13d8e498.png"><img src="https://user-images.githubusercontent.com/34593997/87719973-e3ed9a00-c7bc-11ea-8ad1-66de13d8e498.png" width="120" style="max-width: 100%;"></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"> </a>
-<a href="https://reactjs.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="max-width: 100%;"> </a>
-<a href="https://nodejs.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="max-width: 100%;"> </a>
-   <a href="https://www.postman.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" alt="postman" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="max-width: 100%;"> </a>
-<a href="https://git-scm.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt="git" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="max-width: 100%;"> </a>
-
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9b719c9cf9ab50beb884888a923dbeaa462dd9685c186d717185fccceba6acc9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476f6c616e672d3036303632433f7374796c653d666c61742d737175617265266c6f676f3d676f"><img src="https://camo.githubusercontent.com/9b719c9cf9ab50beb884888a923dbeaa462dd9685c186d717185fccceba6acc9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476f6c616e672d3036303632433f7374796c653d666c61742d737175617265266c6f676f3d676f" alt="Golang" data-canonical-src="https://img.shields.io/badge/Golang-06062C?style=flat-square&amp;logo=go" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3932b4b987523601c54bf188807760a1f5047a79ff88f6497c6e9f97d22de25a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f456c61737469637365617263682d3030353537313f7374796c653d666c61742d737175617265266c6f676f3d656c6173746963736561726368"><img src="https://camo.githubusercontent.com/3932b4b987523601c54bf188807760a1f5047a79ff88f6497c6e9f97d22de25a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f456c61737469637365617263682d3030353537313f7374796c653d666c61742d737175617265266c6f676f3d656c6173746963736561726368" alt="Elasticsearch" data-canonical-src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&amp;logo=elasticsearch" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0bb5f25c6bffbc59569970a2021bbaf9d04a8550ab915841f4e0f371bb858642/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6f6773746173682d3030353537313f7374796c653d666c61742d737175617265266c6f676f3d6c6f677374617368"><img src="https://camo.githubusercontent.com/0bb5f25c6bffbc59569970a2021bbaf9d04a8550ab915841f4e0f371bb858642/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6f6773746173682d3030353537313f7374796c653d666c61742d737175617265266c6f676f3d6c6f677374617368" alt="Logstash" data-canonical-src="https://img.shields.io/badge/Logstash-005571?style=flat-square&amp;logo=logstash" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d9ba4a8f0d0a54589b254f471085fccd7b96ae9e4dfd1a1333e9be59220b9cd8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4b6962616e612d3030353537313f7374796c653d666c61742d737175617265266c6f676f3d6b6962616e61"><img src="https://camo.githubusercontent.com/d9ba4a8f0d0a54589b254f471085fccd7b96ae9e4dfd1a1333e9be59220b9cd8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4b6962616e612d3030353537313f7374796c653d666c61742d737175617265266c6f676f3d6b6962616e61" alt="Kibana" data-canonical-src="https://img.shields.io/badge/Kibana-005571?style=flat-square&amp;logo=kibana" style="max-width: 100%;"></a>
-</p>
--->
+💬 Let's connect on [LinkedIn](https://linkedin.com/in/ridvan-dogan) or reach me via [email](mailto:rdvndgn4235@gmail.com)
