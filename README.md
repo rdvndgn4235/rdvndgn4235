@@ -1,14 +1,14 @@
 ### Hi there 👋 I'm Rıdvan Doğan
 
 🔧 Senior Backend Developer | Java & Spring Boot Enthusiast  
-📍 Based in Ankara, Turkey  
+📍 Based in İstanbul, Turkey  
 📫 rdvndgn4235@gmail.com | [LinkedIn](https://linkedin.com/in/ridvan-dogan) | [GitHub](https://github.com/rdvndgn4235)
 
 ---
 
 #### 👨‍💻 About Me
 
-- 💼 Currently working as a **Senior Specialist Software Engineer** at **Etiya**
+- 💼 Currently working as a **Principal Specialist Software Engineer** at **Etiya**
 - 🧾 Worked on **Fizz** and **ROC** projects in telecom domain
 - 🧠 Previously developed E-Dönüşüm, PEYK and OGO project independently at **Kolaysoft Technology**
 - 🌱 Passionate about Clean Code, Microservices, and Performance optimization
